@@ -1,3 +1,15 @@
+## 📂 Dataset
+
+The dataset used in this project is publicly available on Kaggle.
+
+🔗 **Download Dataset:**
+## 📂 Dataset
+
+The dataset used in this project is publicly available on Kaggle.
+
+🔗 **Download Dataset:**
+     https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+     
 # 💳 Credit Card Fraud Detection using Machine Learning
 
 <p align="center">
